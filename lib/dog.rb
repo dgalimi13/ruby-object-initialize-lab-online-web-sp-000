@@ -1,1 +1,4 @@
-def Class
+class Person 
+  
+  
+end
